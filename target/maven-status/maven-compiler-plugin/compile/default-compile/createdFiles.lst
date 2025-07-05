@@ -1,0 +1,3 @@
+com\example\chatgptclone\controller\ChatController.class
+com\example\chatgptclone\ChatGptCloneApplication.class
+com\example\chatgptclone\service\ChatService.class
